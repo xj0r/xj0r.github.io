@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just another Aussie finding his way in London.
 
-### More Information
+Currently a Product Manager at Digital Science. I love building products that people need, that people want and that people love to use. Previously worked with mobile devices, identification and payment technologies, wireless and RFID comms, and mobile apps.
 
-A place to include any other types of information that you'd like to include about yourself. 
+I enjoy cycling, running, travelling, programming, and tech gadgets.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Also photography; check out my tumblr blog, which I update occasionally.
