@@ -22,9 +22,8 @@ footer-links:
   instagram: xj0r
   linkedin: nathanwestgarth
   pinterest: nathanwestgarth
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: xj0r
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
