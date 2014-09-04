@@ -9,8 +9,15 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="date-and-social">
+	  <div class="date">
+	    Written on {{ page.date | date: "%B %e, %Y" }}
+	  </div>
+  </div>
+
+  <div class="social">
+  	<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-url="{{ site.baseurl + page.url }}" data-dnt="true" data-count="none" data-via="xj0r" data-lang="en">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
 
   <br><br>

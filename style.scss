@@ -112,9 +112,20 @@ img {
   max-width: 100%;
 }
 
+.date-and-social {
+    float: left;
+    width: 100%;
+}
+
 .date {
   font-style: italic;
   color: $gray;
+  margin-right: 100px;
+}
+
+.social {
+  float: right;
+  margin-left: -100px;
 }
 
 // Specify the color of the selection
