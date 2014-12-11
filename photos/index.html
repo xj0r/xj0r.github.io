@@ -5,9 +5,11 @@ layout: page
 <div class="posts">
   {% for post in site.categories.photos %}
     <article class="post">    
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <p>{{ post.title }} - {{ post.location }}</p>
-	    <img src="/images/{{ post.pic }}_thumb.jpg" width="200">
+      <a id="{{ post.pic }}">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <p>{{ post.title }} - {{ post.location }}</p>
+	      <img src="/images/{{ post.pic }}_thumb.jpg" width="200">
+	    </a>
 	  <a>
     </article>
   {% endfor %}
