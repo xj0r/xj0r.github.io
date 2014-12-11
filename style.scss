@@ -251,6 +251,12 @@ nav {
 // .main
 //
 
+.page {
+  img {
+    border-radius: 5px;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;

@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+![Profile pic]({{ site.avatar }}?s=300.jpg)
+
 My name is Nathan. I'm just another Aussie finding my way in London, accompanied in life by my beautiful wife, Rachel.
 
 I was born in Melbourne, Australia. I moved to Brisbane in primary school and lived there until only a few years ago. Moving to London has been a life-changing experience and I'm happy Rachel was more adventurous than I, encouraging and eventually convincing me to take the steps to move.
