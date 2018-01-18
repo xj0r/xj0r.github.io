@@ -13,9 +13,11 @@ I worked at Fujitsu through my undergraduate degrees doing various IT infrastruc
 
 I then moved to Digital Science, part of Macmillan Publishers, focusing on software product management building science-focused products as well as mentoring and helping their portfolio of science-focused software start-ups.
 
-I'm now working for Elsevier as a Senior Product Manager on ScienceDirect.
+I stuck with academic publishing, moving to Elsevier as a Senior Product Manager working on various teams in ScienceDirect. I'm now managing a team of product managers as a Director of Product Management in ScienceDirect, while still working closely with a development team of my own.
 
-I've come to realise that, though I still enjoy coding and electronics design myself, product management is what I enjoy doing the most. I love building products that people need, that people want and that people love to use. I enjoy working with a high performing development team, coaching but also learning from my development team members. I have a general interest in start-ups, entrepreneurship and innovation. I'm an advocate of lean and agile techniques, but I do try to focus on the principles rather than particular methodologies or Agile ceremonies.
+I've come to realise that, though I still enjoy coding and electronics design myself, product management is what I enjoy doing the most. 
+
+I love building products that people need, that people want and that people love to use. I enjoy working with a high performing development team, coaching but also learning from my development team members and my product team. I have a general interest in start-ups, entrepreneurship and innovation. I'm an advocate of lean and agile techniques, but I do try to focus on the principles rather than particular methodologies or Agile ceremonies.
 
 I've worked on desktop and web applications, mobilility hardware devices and enterprise mobility solutions, identification and payment technologies, wireless and RFID comms, and mobile apps.
 
