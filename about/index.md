@@ -13,7 +13,7 @@ I worked at Fujitsu through my undergraduate degrees doing various IT infrastruc
 
 I then moved to Digital Science, part of Macmillan Publishers, focusing on software product management building science-focused products as well as mentoring and helping their portfolio of science-focused software start-ups.
 
-I stuck with academic publishing, moving to Elsevier as a Senior Product Manager working on various teams in ScienceDirect. I'm now managing a team of product managers as a Director of Product Management in ScienceDirect, while still working closely with a development team of my own.
+I stuck with academic publishing, moving to Elsevier as a Senior Product Manager working on various teams in ScienceDirect. I moved to managing a team of product managers as a Director of Product Management in ScienceDirect, while still working closely with a development team of my own. Later I took on a wider role in Elsevier as Principal Product Manager, bringing together Elsevier’s next generation researcher platform, combining capabilities and technologies from across the research products business area. Now I am VP Product Management, Researcher Tools, developing and leading execution of Elsevier's strategy to serve researchers better, building and iterating the researcher platform and products, particularly within Mendeley.
 
 I've come to realise that, though I still enjoy coding and electronics design myself, product management is what I enjoy doing the most. 
 
